@@ -1,0 +1,22 @@
+html{
+    background-color: skyblue;
+}
+h1{
+    color: red;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: springgreen;
+    padding: 50px;
+    border: 5px solid burlywood;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
