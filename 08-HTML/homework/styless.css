@@ -2,7 +2,7 @@ html{
     background-color: skyblue;
 }
 h1{
-    color: red;
+    color: rgb(0, 255, 157);
 }
 img{
     width: 400px;
@@ -11,7 +11,7 @@ img{
 #thirdDiv{
     height: 600px;
     width: 500px;
-    background-color: springgreen;
+    background-color: rgba(185, 117, 28, 0.712);
     padding: 50px;
     border: 5px solid burlywood;
 }
